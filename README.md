@@ -31,7 +31,7 @@ Para visualizar e editar este projeto, você precisará de um navegador moderno 
 
 ## Exemplo de Imagem
 
-![Exemplo de Tela de Login](./tela-de-login.png)
+![Exemplo de Tela de Login](/tela-de-login.png)
 
 ## Estrutura da Tela de Login
 
